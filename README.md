@@ -1,6 +1,6 @@
 # Tak manager
 
-Resporatry ==https://github.com/huntritik/Task-Manager
+Repositories ==  https://github.com/huntritik/Task-Manager
 
 #NOTE
 
