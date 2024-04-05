@@ -27,6 +27,9 @@ react ,vite is used
 
 use abc as a paaswrd to login
 
+#VIDEO LINK
+https://drive.google.com/file/d/1liy0AjoTl0P45dID0VY8HximwO2TR_XF/view?usp=sharing
+
 
 #Procedure
 
