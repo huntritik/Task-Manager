@@ -4,7 +4,8 @@ Repositories ==  https://github.com/huntritik/Task-Manager
 
 #NOTE
 
-# hosted my app using netlify   LINK =https://todoappmernstack.netlify.app/login
+# Hosted my app using NETLIFY
+#LINK =https://todoappmernstack.netlify.app/login
 
 #Backend
 
