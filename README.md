@@ -1,6 +1,6 @@
 # Tak manager
 
-https://github.com/huntritik/todo-web-app ==   resporatry
+Resporatry ==https://github.com/huntritik/Task-Manager
 
 #NOTE
 
@@ -8,7 +8,7 @@ https://github.com/huntritik/todo-web-app ==   resporatry
 
 #Backend
 
-the backend file is too big so i had uploaded the file on my google drive and provided the link for it.
+The BACKEND file is too big so i had uploaded the file on my google drive and provided the link for it.
 LINK = https://drive.google.com/drive/folders/1FoieJEhXZ-4Vu_GJZqUCIdeCFDGHyHY4?usp=sharing
 
 #Link for backend folder
